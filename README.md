@@ -1,7 +1,7 @@
 # Subsquid Tech gorevleri
  14.12.2023 Subsquid tech gorevleri
 
- npm install --global @subsquid/cli@latest
+ <kbd>Ctrl</kbd> npm install --global @subsquid/cli@latest <kbd>Ctrl</kbd> 
 
  sqd --version
 
@@ -23,6 +23,7 @@
  sqd run .
 
  # loglar bu sekilde olmali
+ 
  [api] 23:33:48 WARN  sqd:graphql-server enabling dumb in-memory cache (size: 100mb, ttl: 1000ms, max-age: 1000ms)
  [api] 23:33:48 INFO  sqd:graphql-server listening on port 4350
  [processor] 23:33:49 INFO  sqd:processor processing blocks from 11000000
